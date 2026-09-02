@@ -75,8 +75,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielBasaznew&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Daniel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielBasaznew&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DanielBasaznew&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Daniel's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanielBasaznew&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
@@ -89,11 +89,14 @@
 
 <div align="center">
 
-<a href="https://github.com/DanielBasaznew">
+<a href="https://github.com/DanielBasaznew" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-DanielBasaznew-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
-<a href="mailto:daniel.basaznew@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="https://www.linkedin.com/in/daniel-basaznew" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Daniel_Basaznew-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:basaznewdaniel@gmail.com">
+  <img src="https://img.shields.io/badge/Email-basaznewdaniel@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br/><br/>
