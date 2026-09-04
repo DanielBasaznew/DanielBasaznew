@@ -80,7 +80,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DanielBasaznew&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" width="97%" />
 </div>
 
 ---
