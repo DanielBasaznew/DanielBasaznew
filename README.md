@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/DanielBasaznew">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=780&lines=Full+Stack+AI+Engineering+from+Scratch;Building+Production-Grade+Agentic+Systems+%26+MCP;Multi-Agent+Orchestration+%26+Autonomous+Tool-Use;Production+Full-Stack+Apps+(React%2C+Next.js+%26+Python);Speech+%26+Multilingual+Fine-Tuning+(Whisper)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=780&lines=Full+Stack+AI+Engineering+from+Scratch;Building+Production-Grade+Agentic+Systems+%26+MCP;Full-Stack+Enterprise+Apps+(Next.js+15%2C+React+19+%26+Python);Transactional+Ledger+%26+POS+Architecture;Speech+%26+Multilingual+Fine-Tuning+(Whisper)" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,36 +22,39 @@
 
 ## 👨‍💻 About Me
 
-- 🧠 **AI Engineering & Autonomous Agents (Core Focus)**: Architecting production-grade agentic systems from scratch. Experienced in Model Context Protocol (MCP), multi-agent collaboration (CrewAI, LangChain), semantic caching, RAG with vector databases (ChromaDB), and persistent memory systems.
-- 🛡️ **Production Hardening & Reliability**: Building enterprise safety guardrails, instruction override interception, circuit breakers to prevent runaway tool loops, and Langfuse distributed tracing with fine-grained cost accounting.
-- 🎙️ **Speech & Dialectal AI**: Fine-tuning OpenAI Whisper on low-resource dialectal speech datasets (e.g. Amharic Shewa dialect).
-- ⚛️ **Full-Stack AI Interfaces**: Bridging intelligent agents to high-performance user experiences using **React**, **Next.js 14**, **TypeScript**, **Tailwind CSS**, and modern serverless backends (**FastAPI**, **Flask**, **Drizzle ORM**, **Neon PostgreSQL**).
-- 🔄 **Robotic & Workflow Automation**: Engineering autonomous business pipelines, Excel batch extractors, headless Microsoft Forms submission engines, and computer vision data workflows.
-- 🏢 **Organization Collaborator**: Core developer at **[IBT-Qiyas Full Stack Academy](https://github.com/IBT-Qiyas-Full-Stack-Academy)**, maintaining full-stack architecture modules, test suites, and CI/CD pipelines.
+- 🧠 **Full Stack AI & Systems Engineer** with a mechanical engineering foundation (ASTU, Great Distinction) bridging physical-systems rigor with modern software architecture.
+- 🤖 **Agentic AI & LLMs**: Architecting production-grade agent systems using **Model Context Protocol (MCP)**, multi-agent collaboration (CrewAI/LangChain), vector RAG (ChromaDB), and Langfuse observability.
+- ⚛️ **Modern Full-Stack**: Building type-safe, high-performance web applications with **Next.js 15**, **React 19**, **TypeScript**, **Tailwind CSS**, and **PostgreSQL** (Prisma / Drizzle ORM).
+- 🏢 **Enterprise Impact**: Replaced error-prone spreadsheets with mathematical transactional ledgers and automated pipelines across regional distribution networks (JOTUN paints, Heineken, PKF Ethiopia).
 
 ---
 
-## 🏆 Featured Capstone: AI Engineering Assistant
+## 🏆 Featured Flagship Systems
 
 <div align="center">
   <table width="100%">
     <tr>
-      <td>
-        <h3>🤖 <a href="https://github.com/DanielBasaznew/ai-engineering-assistant">AI Engineering Assistant</a> — Production-Level Agentic System</h3>
-        <em>The culmination and capstone project wrapping up a rigorous 10-week journey of <strong>Building Production-Level AI Agents From Scratch</strong>.</em>
-        <br/><br/>
+      <td width="50%" valign="top">
+        <h3>🎨 <a href="https://github.com/DanielBasaznew/Lalbet-Trading-PLC-JOTON-Inventory-Management-System">JOTUN Paint Inventory & POS System</a></h3>
+        <em>Enterprise inventory & POS platform for authorized JOTUN distributor <strong>Lalbet Trading PLC</strong>.</em>
         <ul>
-          <li><strong>Autonomous Agent Core:</strong> Powered by Google Gemini with dynamic function calling, stdio Model Context Protocol (MCP) client/server integration, and a specialized CrewAI 3-agent research team (<code>/crew</code>).</li>
-          <li><strong>Knowledge & Long-Term Memory:</strong> Real-time document RAG via ChromaDB vector embeddings and PyMuPDF, coupled with persistent long-term semantic memory stored in SQLite with SentenceTransformers.</li>
-          <li><strong>Production Hardening:</strong> Multi-layer defense with regex input guardrails, semantic cache gating (<code>is_semantic_cache_eligible</code>), runaway tool-loop circuit breaking, request-scoped tracking, and deterministic SQLite connection pooling.</li>
-          <li><strong>Observability & Cost Telemetry:</strong> Distributed spans published to <strong>Langfuse</strong> for token latency and exact cost accounting ($0.075/1M input, $0.300/1M output), backed by structured JSON event logging.</li>
-          <li><strong>Verification & Rigor:</strong> Interactive Rich CLI REPL verified across <strong>4 automated test suites (42+ tests)</strong> covering production hardening, MCP stdio protocol, and full end-to-end capstone functionality.</li>
+          <li><strong>Transactional Ledger:</strong> Replaced Excel with an event-driven ledger ($\Delta \text{Stock} = \text{In} - \text{Out} \pm \text{Adj}$) ensuring zero arithmetic drift.</li>
+          <li><strong>Store Operations:</strong> Multi-item POS sales, supplier receiving, real-time stock valuation in ETB, and automated Telegram/SMS low-stock alerts.</li>
+          <li><strong>Mobile PWA:</strong> Offline-ready progressive web app tailored for shop floor use.</li>
         </ul>
-        <p align="left">
-          <strong>Tech Stack:</strong> <code>Python</code> <code>Gemini</code> <code>Model Context Protocol (MCP)</code> <code>Langfuse</code> <code>CrewAI</code> <code>ChromaDB</code> <code>RAG</code> <code>SQLite</code> <code>SentenceTransformers</code> <code>Rich CLI</code>
-          <br/>
-          <strong>Repository:</strong> <a href="https://github.com/DanielBasaznew/ai-engineering-assistant">github.com/DanielBasaznew/ai-engineering-assistant</a> &bull; 🌐 <em>Open-Source Capstone</em>
-        </p>
+        <strong>Stack:</strong> <code>Next.js 15</code> <code>React 19</code> <code>TypeScript</code> <code>Tailwind</code> <code>Prisma ORM</code> <code>PostgreSQL</code> <code>SheetJS</code><br/>
+        <strong>Status:</strong> 🏢 <em>Enterprise Production</em> • <a href="https://github.com/DanielBasaznew/Lalbet-Trading-PLC-JOTON-Inventory-Management-System">GitHub Repo</a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🤖 <a href="https://github.com/DanielBasaznew/ai-engineering-assistant">AI Engineering Assistant</a></h3>
+        <em>Production agentic runtime capstone developed over 10 weeks of building AI agents from scratch.</em>
+        <ul>
+          <li><strong>Autonomous Agent Core:</strong> Gemini function calling, stdio Model Context Protocol (MCP) client/server, and CrewAI 3-agent research team.</li>
+          <li><strong>RAG & Persistent Memory:</strong> ChromaDB vector embeddings + PyMuPDF with long-term semantic memory in SQLite.</li>
+          <li><strong>Hardening & Telemetry:</strong> Regex input guardrails, runaway tool-loop circuit breakers, and Langfuse distributed tracing ($0.075/1M input cost tracking).</li>
+        </ul>
+        <strong>Stack:</strong> <code>Python</code> <code>Gemini</code> <code>MCP</code> <code>Langfuse</code> <code>CrewAI</code> <code>ChromaDB</code> <code>SQLite</code><br/>
+        <strong>Status:</strong> 🌐 <em>Open-Source Capstone</em> (42+ automated tests) • <a href="https://github.com/DanielBasaznew/ai-engineering-assistant">GitHub Repo</a>
       </td>
     </tr>
   </table>
@@ -63,7 +66,18 @@
 
 <div align="center">
 
-### 🧠 AI Engineering, LLMs & Agentic Frameworks (Core)
+### ⚛️ Full-Stack Web, APIs & Databases
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+
+### 🧠 AI Engineering, LLMs & Agentic Frameworks
 ![Model Context Protocol](https://img.shields.io/badge/MCP-Protocol-6366F1?style=for-the-badge)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -72,23 +86,9 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-FF6B6B?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### ⚛️ Full-Stack Web & Interfaces (React, Next.js & Backend)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚡ Workflow Automation, Cloud & DevOps
-![Excel Automation](https://img.shields.io/badge/Excel%20Automation-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+### ⚡ Automation, Cloud & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -101,60 +101,43 @@
 
 ## 🌟 Featured Projects
 
-### 🧠 Agentic AI & LLM Systems
+### 🌐 Full-Stack & Enterprise Systems
 
-| Project | Description | Stack & Status |
-| :--- | :--- | :--- |
-| 🤖 **[AI Engineering Assistant](https://github.com/DanielBasaznew/ai-engineering-assistant)** | **10-Week AI Agent Capstone**: Autonomous agent with MCP stdio integration, ChromaDB RAG, persistent memory, CrewAI multi-agent team, Langfuse tracing, and production hardening guardrails. | `Python` `Gemini` `MCP` `Langfuse` `CrewAI` `ChromaDB`<br/>🌐 *Public Open-Source Capstone* |
-| 🛠️ **[MCP Coding Assistant](https://github.com/DanielBasaznew/mcp-coding-assistant-week8)** | Agentic coding assistant powered by the Model Context Protocol (MCP) for autonomous tool execution, AST exploration, and code workflows. | `Python` `MCP` `LLMs` `Agents`<br/>🌐 *Public Open-Source* |
-| 👥 **[Multi-Agent Collaborative System](https://github.com/DanielBasaznew/multi-agent-week9)** | Multi-agent architecture with dynamic role specialization, collaborative communication protocols, and task decomposition. | `Python` `Multi-Agent` `LangChain`<br/>🌐 *Public Open-Source* |
-| 🎙️ **[Whisper Amharic Shewa](https://github.com/DanielBasaznew/whisper-amharic-shewa)** | Speech-to-Text fine-tuning on OpenAI Whisper model tailored for the regional Amharic Shewa dialect dataset. | `PyTorch` `Whisper` `Hugging Face`<br/>🌐 *Public Open-Source* |
-| 🧠 **[Private Knowledge Assistant](https://github.com/DanielBasaznew/private-knowledge-assistant-week5)** | Enterprise RAG assistant for querying proprietary documents with vector embeddings, semantic search, and citation grounding. | `Python` `RAG` `Vector DB` `Embeddings`<br/>🌐 *Public Open-Source* |
-| ⚡ **[Autonomous Tool Use Agent](https://github.com/DanielBasaznew/tool-use-agent-week4)** | AI agent capable of multi-step reasoning, external API function calling, schema validation, and autonomous decision-making. | `Python` `Function Calling` `APIs`<br/>🌐 *Public Open-Source* |
+| Project | Highlights | Stack | Status |
+| :--- | :--- | :--- | :--- |
+| 🎨 **[JOTUN Paint Inventory & POS System](https://github.com/DanielBasaznew/Lalbet-Trading-PLC-JOTON-Inventory-Management-System)** | Enterprise inventory & point-of-sale platform for Lalbet Trading PLC. Features an event-driven stock ledger, multi-item POS, automated Telegram/SMS alerts, and PWA mobile store support. | `Next.js 15` `React 19` `TypeScript` `Prisma` `PostgreSQL` `SheetJS` | 🏢 Enterprise Production |
+| 📊 **[Asset Verification Dashboard](https://asset-verification-dashboard.vercel.app)** | High-throughput operational telemetry console with dynamic multi-market filtering, bulk Excel ingestion, and sub-second relational queries. | `Next.js 14` `React 18` `TypeScript` `Drizzle ORM` `Neon DB` | 🚀 [Live Demo](https://asset-verification-dashboard.vercel.app) |
+| 🌾 **[Azmera-Hub](https://github.com/DanielBasaznew/Azmera-Hub)** | Cursor AI Hackathon agritech marketplace for agricultural supply chains, PostGIS spatial route optimization, and escrow checkout. | `Next.js 14` `Fastify` `TypeScript` `PostGIS` `Neon DB` `Drizzle` | 🏆 Hackathon Project |
+| 📰 **[BigQuery Release Notes App](https://github.com/DanielBasaznew/bq-release-notes-app)** | Dynamic release tracker with live XML/RSS sync, smart dual-caching, interactive timeline, and social composer. | `Python` `Flask` `JavaScript` `CSS3` | 🌐 Open-Source |
 
 ---
 
-### 🌐 Full-Stack Web & Interfaces (React & Next.js)
+### 🧠 Agentic AI & Intelligent Automation
 
-| Project | Description | Stack & Status |
-| :--- | :--- | :--- |
-| 📊 **[Asset Verification Dashboard](https://asset-verification-dashboard.vercel.app)** | Production asset verification web app with real-time analytics, bulk Excel data ingestion, and serverless PostgreSQL with Drizzle ORM. | `Next.js 14` `React 18` `TypeScript` `Drizzle ORM` `Neon DB`<br/>🔒 *Private Enterprise Repo* &bull; [🚀 Live Demo](https://asset-verification-dashboard.vercel.app) |
-| 🍽️ **[Addis Eats Web App](https://github.com/IBT-Qiyas-Full-Stack-Academy/sq2-daniel-basaznew/tree/main/module-03-react-nextjs/Projects/addis-eats-react)** | Interactive restaurant discovery and ordering platform developed as part of the IBT-Qiyas React/Next.js curriculum. | `React` `Next.js` `JavaScript` `TailwindCSS`<br/>🔒 *IBT-Qiyas Academy Repo* |
-| 📰 **[BigQuery Release Notes App](https://github.com/DanielBasaznew/bq-release-notes-app)** | Dynamic release tracker with live XML/RSS synchronization, smart dual-caching, interactive timeline, and simulated Twitter composer. | `Python` `Flask` `JavaScript` `CSS3`<br/>🌐 *Public Open-Source* |
-| 🎓 **[Tom Scholarship Agency Web App](https://github.com/DanielBasaznew/tom-scholarship-agency-web-app)** | Multi-page client web portal with dynamic course catalogs and international scholarship application workflows. | `JavaScript` `HTML5` `CSS3`<br/>🔒 *Private Client Project* |
+| Project | Highlights | Stack | Status |
+| :--- | :--- | :--- | :--- |
+| 🤖 **[AI Engineering Assistant](https://github.com/DanielBasaznew/ai-engineering-assistant)** | Production agentic runtime with stdio MCP client/server, Gemini function calling, ChromaDB RAG, and Langfuse tracing (42+ automated tests). | `Python` `Gemini` `MCP` `Langfuse` `CrewAI` `ChromaDB` | 🏆 Capstone |
+| 🎙️ **[Whisper Amharic Shewa](https://github.com/DanielBasaznew/whisper-amharic-shewa)** | Speech-to-Text fine-tuning on OpenAI Whisper model optimized for the regional low-resource Amharic Shewa dialect dataset. | `PyTorch` `Whisper` `Hugging Face` `Transformers` | 🌐 Open-Source |
+| 📷 **[Retail Photo & Location Combiner](https://github.com/DanielBasaznew/Retail-photo-location-and-summary-combiner)** | Multimodal audit pipeline scraping Telegram channel media, verifying via Gemini 1.5 Flash Vision, and generating automated Excel audit matrices across 25+ distribution channels. | `Python` `Gemini Vision` `Telethon` `RapidFuzz` `OpenPyXL` | 🏢 Enterprise Pipeline |
+| 💧 **[AquaSense AI / Smart Irrigation](https://github.com/DanielBasaznew/Smart-Irrigation-System)** | Multi-sensor IoT precision agriculture controller with predictive ML soil-moisture inference (96.8% accuracy), ESP32 simulation, and SolidWorks CAD. | `ESP32` `Python` `Scikit-Learn` `IoT` `Wokwi` | 🎓 ASTU Capstone (A+) |
 
----
-
-### ⚡ Automation & Data Pipelines
-
-| Project | Description | Stack & Status |
-| :--- | :--- | :--- |
-| 🤖 **[MS Forms & Excel Automation Engine](https://github.com/DanielBasaznew/microsoft-form-and-excel-automation)** | Autonomous pipeline parsing complex Excel audit sheets to automatically fill Microsoft Forms with dynamic schema mapping and audit logs. | `Python` `Flask` `OpenPyXL` `Automation`<br/>🔒 *Private Enterprise Repo* |
-| 📷 **[Photo-Location Summary Combiner](https://github.com/DanielBasaznew/photo-location-summary-combiner)** | Spatial imagery aggregation pipeline featuring computer vision matching (`vision_matcher.py`), SQLite storage, and automated Excel reporting. | `Python` `Computer Vision` `SQLite` `Excel`<br/>🔒 *Private Enterprise Repo* |
-| 💧 **[Smart Irrigation Automation](https://github.com/DanielBasaznew/Smart-Irrigation-System)** | Autonomous IoT water control combining sensor inputs, ML Logistic Regression, Wokwi ESP32 simulation, and SolidWorks CAD design. | `ESP32` `Scikit-Learn` `IoT` `Wokwi`<br/>🌐 *Public Open-Source* |
+> 💡 *Research & Specialized Prototypes:* Explore weekly agentic modules: [MCP Coding Assistant](https://github.com/DanielBasaznew/mcp-coding-assistant-week8) • [Multi-Agent System](https://github.com/DanielBasaznew/multi-agent-week9) • [Private RAG Assistant](https://github.com/DanielBasaznew/private-knowledge-assistant-week5) • [Tool-Use Agent](https://github.com/DanielBasaznew/tool-use-agent-week4) • [MS Forms Automation](https://github.com/DanielBasaznew/microsoft-form-and-excel-automation).
 
 ---
 
-## 🏢 Organizations & Enterprise Work
+## 🏢 Organizations & Community
 
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="16%" align="center">
+      <td width="12%" align="center">
         <a href="https://github.com/IBT-Qiyas-Full-Stack-Academy" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/300202413?v=4" width="85px" alt="IBT-Qiyas Full Stack Academy" style="border-radius: 50%;" />
+          <img src="https://avatars.githubusercontent.com/u/300202413?v=4" width="70px" alt="IBT-Qiyas Full Stack Academy" style="border-radius: 50%;" />
         </a>
       </td>
-      <td width="84%">
-        <strong><a href="https://github.com/IBT-Qiyas-Full-Stack-Academy" target="_blank">IBT-Qiyas Full Stack Academy</a></strong><br/>
-        <em>Core Member & Full-Stack Developer</em><br/>
-        Collaborating on full-stack web applications, assignments, and production software architecture.<br/>
-        📌 <strong>Featured Repository:</strong> <code>sq2-daniel-basaznew</code> — Comprehensive multi-module academy workspace spanning:
-        <ul>
-          <li><strong>Module 03 (React & Next.js):</strong> Modern component architecture, dynamic hooks, Next.js app routing, and the <em>Addis Eats</em> React food platform.</li>
-          <li><strong>Module 04 & 05 (Backend & Databases):</strong> RESTful API microservices, relational data modeling, and query optimization.</li>
-          <li><strong>Module 06 to 08:</strong> Automated QA testing, DevOps CI/CD deployment pipelines, and scalable software architecture patterns.</li>
-        </ul>
+      <td width="88%">
+        <strong><a href="https://github.com/IBT-Qiyas-Full-Stack-Academy" target="_blank">IBT-Qiyas Full Stack Academy</a></strong> &bull; <em>Core Member & Full-Stack Developer</em><br/>
+        Developing full-stack architecture modules, Next.js applications (<a href="https://github.com/IBT-Qiyas-Full-Stack-Academy/sq2-daniel-basaznew/tree/main/module-03-react-nextjs/Projects/addis-eats-react">Addis Eats</a>), RESTful microservices, and end-to-end CI/CD test suites across the <code>sq2-daniel-basaznew</code> curriculum.
       </td>
     </tr>
   </table>
@@ -190,6 +173,6 @@
 </a>
 
 <br/><br/>
-<i>⭐️ If you find my projects helpful or interesting, feel free to star them and follow along! 🚀</i>
+<i>⭐️ If you find my projects impactful, feel free to star them and follow along! 🚀</i>
 
 </div>
