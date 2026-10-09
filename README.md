@@ -26,33 +26,39 @@
 
 ---
 
-## 🌟 Flagship Project
+## 🏆 Featured Flagship System
 
 <div align="center">
-
-### 🤖 [AI Engineering Assistant](https://github.com/DanielBasaznew/ai-engineering-assistant)
-*A hardened, production-grade autonomous agentic runtime built from scratch.*
-
+  <table width="100%">
+    <tr>
+      <td>
+        <div align="center">
+          <h3>🤖 <a href="https://github.com/DanielBasaznew/ai-engineering-assistant">AI Engineering Assistant</a></h3>
+          <p><em>Production-grade autonomous agentic runtime developed from scratch uniting ten weeks of agentic systems architecture.</em></p>
+          <p>
+            <a href="https://github.com/DanielBasaznew/ai-engineering-assistant"><img src="https://img.shields.io/badge/Status-Production%20Hardened-success?style=flat-square&logo=shield" alt="Status"/></a>
+            <a href="https://github.com/DanielBasaznew/ai-engineering-assistant"><img src="https://img.shields.io/badge/Protocol-Model%20Context%20Protocol-6366F1?style=flat-square" alt="MCP"/></a>
+            <a href="https://github.com/DanielBasaznew/ai-engineering-assistant"><img src="https://img.shields.io/badge/Tests-42%2B%20Passing-2563EB?style=flat-square&logo=pytest&logoColor=white" alt="Tests"/></a>
+            <a href="https://github.com/DanielBasaznew/ai-engineering-assistant"><img src="https://img.shields.io/badge/Telemetry-Langfuse%20v4-black?style=flat-square" alt="Langfuse"/></a>
+          </p>
+        </div>
+        <ul>
+          <li><strong>Autonomous Agent Core:</strong> Gemini function calling ReAct engine, native stdio <strong>Model Context Protocol (MCP)</strong> client/server architecture, and <strong>CrewAI</strong> 3-agent research team.</li>
+          <li><strong>Vector RAG & Memory:</strong> Semantic vector search with <strong>ChromaDB + PyMuPDF</strong> with persistent long-term two-tier memory in SQLite.</li>
+          <li><strong>Hardening & Telemetry:</strong> Regex input guardrails, runaway tool-loop circuit breakers, two-layer cache gating, and <strong>Langfuse v4</strong> distributed tracing with token cost monitoring ($0.075/1M tokens).</li>
+        </ul>
+        <div align="center">
+          <p>
+            <strong>Stack:</strong> <code>Python</code> <code>Gemini</code> <code>MCP</code> <code>Langfuse v4</code> <code>CrewAI</code> <code>ChromaDB</code> <code>SQLite</code> <code>PyMuPDF</code>
+          </p>
+          <a href="https://github.com/DanielBasaznew/ai-engineering-assistant">
+            <img src="https://img.shields.io/badge/Explore%20Flagship%20Repository-GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repo"/>
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
-
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│  CLI / REPL ──► Guardrails ──► Two-Tier Cache ──► Gemini ReAct Engine  │
-│                                                          │             │
-│  Langfuse v4 ◄── Vector RAG (Chroma) ◄── MCP Client/Server ◄───────────┘
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-- **Autonomous Agent Core**: Powered by **Gemini function calling**, native stdio **Model Context Protocol (MCP)** client/server, and a **CrewAI** 3-agent research team.
-- **RAG & Two-Tier Memory**: Local vector search via **ChromaDB + PyMuPDF** paired with persistent SQLite semantic memory.
-- **Hardening & Telemetry**: Regex input guardrails, runaway tool-loop circuit breakers, and **Langfuse v4** distributed tracing with token cost monitoring.
-- **Reliability**: Backed by **42+ automated unit & integration tests**.
-
-<p align="center">
-  <a href="https://github.com/DanielBasaznew/ai-engineering-assistant">
-    <img src="https://img.shields.io/badge/Explore_Flagship_Repository-GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View AI Engineering Assistant" />
-  </a>
-</p>
 
 ---
 
@@ -97,11 +103,15 @@
 
 ---
 
-## 📊 Activity
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DanielBasaznew&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs" alt="Daniel's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanielBasaznew&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="./profile/streak.svg" alt="GitHub Streak" width="97%" />
 </div>
 
 ---
