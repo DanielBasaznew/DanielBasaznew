@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://daniel-basaznew-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-4F46E5?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://github.com/DanielBasaznew"><img src="https://img.shields.io/github/followers/DanielBasaznew?label=Followers&style=flat-square&color=2563EB" alt="Followers"/></a>
   <a href="https://github.com/DanielBasaznew?tab=repositories"><img src="https://img.shields.io/github/stars/DanielBasaznew?label=Stars&style=flat-square&color=8B5CF6" alt="Stars"/></a>
   <a href="https://github.com/DanielBasaznew"><img src="https://komarev.com/ghpvc/?username=DanielBasaznew&style=flat-square&color=10B981" alt="Profile Views"/></a>
@@ -23,6 +24,7 @@
 - 🧠 **AI & Systems Engineer** with a mechanical engineering foundation (ASTU, Great Distinction) bridging physical-systems rigor with modern software architecture.
 - 🤖 Specializing in **Autonomous Agent Runtimes**, **Model Context Protocol (MCP)**, multi-agent collaboration (CrewAI), vector RAG (ChromaDB), and LLM observability (Langfuse).
 - ⚛️ Crafting full-stack web platforms with **Next.js 15, React 19, TypeScript, and PostgreSQL**.
+- 🌐 Explore my interactive showcase and case studies on my [Portfolio Website](https://daniel-basaznew-portfolio.vercel.app).
 
 ---
 
@@ -120,6 +122,7 @@
 
 ### 🤝 Let's Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://daniel-basaznew-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Basaznew-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-basaznew)
 [![GitHub](https://img.shields.io/badge/GitHub-DanielBasaznew-181717?style=for-the-badge&logo=github)](https://github.com/DanielBasaznew)
 [![Email](https://img.shields.io/badge/Email-basaznewdaniel@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basaznewdaniel@gmail.com)
