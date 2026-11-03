@@ -68,7 +68,7 @@
 
 | Project | Highlights | Stack |
 | :--- | :--- | :--- |
-| ☕ **[London Cafe Fleet & Asset Management](https://github.com/DanielBasaznew/London-Cafe-Fleet-Asset-Management-System)** | Enterprise commercial vehicle fleet, driver custody governance, statutory compliance & automated Telegram escalation engine. | `Next.js 16` `React 19` `Supabase` `TypeScript` |
+| ☕ **[London Cafe Fleet & Asset Management](https://github.com/DanielBasaznew/London-Cafe-Fleet-Asset-Management-System)** | Enterprise fleet & compliance platform driven by an embedded **AI-powered (RAG) assistant**, driver custody governance & Telegram alerts. | `Next.js 16` `React 19` `AI / RAG` `Supabase` |
 | 🎨 **[JOTUN Paint POS & Inventory](https://github.com/DanielBasaznew/Lalbet-Trading-PLC-JOTON-Inventory-Management-System)** | Event-driven transactional ledger & offline PWA for authorized distributor Lalbet Trading PLC. | `Next.js 15` `React 19` `PostgreSQL` |
 | 📷 **[Photo, Location & Summary Combiner](https://github.com/DanielBasaznew/Retail-photo-location-and-summary-combiner)** | Multimodal audit pipeline scraping Telegram media, verifying via Gemini Vision, & generating Excel matrices. | `Python` `Gemini Vision` `Telethon` `OpenPyXL` |
 | 📊 **[MS Forms & Excel Automation](https://github.com/DanielBasaznew/microsoft-form-and-excel-automation)** | End-to-end response ingestion pipeline with automated data cleansing, validation, & multi-sheet Excel reports. | `Python` `OpenPyXL` `Automation` |
