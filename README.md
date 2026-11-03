@@ -23,7 +23,7 @@
 ### ⚡ Quick Snapshot
 - 🧠 **AI & Systems Engineer** with a mechanical engineering foundation (ASTU, Great Distinction) bridging physical-systems rigor with modern software architecture.
 - 🤖 Specializing in **Autonomous Agent Runtimes**, **Model Context Protocol (MCP)**, multi-agent collaboration (CrewAI), vector RAG (ChromaDB), and LLM observability (Langfuse).
-- ⚛️ Crafting full-stack web platforms with **Next.js 15, React 19, TypeScript, and PostgreSQL**.
+- ⚛️ Crafting full-stack web platforms with **Next.js 16, React 19, TypeScript, and Supabase / PostgreSQL**.
 - 🌐 Explore my interactive showcase and case studies on my [Portfolio Website](https://daniel-basaznew-portfolio.vercel.app).
 
 ---
@@ -68,6 +68,7 @@
 
 | Project | Highlights | Stack |
 | :--- | :--- | :--- |
+| ☕ **[London Cafe Fleet & Asset Management](https://github.com/DanielBasaznew/London-Cafe-Fleet-Asset-Management-System)** | Enterprise commercial vehicle fleet, driver custody governance, statutory compliance & automated Telegram escalation engine. | `Next.js 16` `React 19` `Supabase` `TypeScript` |
 | 🎨 **[JOTUN Paint POS & Inventory](https://github.com/DanielBasaznew/Lalbet-Trading-PLC-JOTON-Inventory-Management-System)** | Event-driven transactional ledger & offline PWA for authorized distributor Lalbet Trading PLC. | `Next.js 15` `React 19` `PostgreSQL` |
 | 📷 **[Photo, Location & Summary Combiner](https://github.com/DanielBasaznew/Retail-photo-location-and-summary-combiner)** | Multimodal audit pipeline scraping Telegram media, verifying via Gemini Vision, & generating Excel matrices. | `Python` `Gemini Vision` `Telethon` `OpenPyXL` |
 | 📊 **[MS Forms & Excel Automation](https://github.com/DanielBasaznew/microsoft-form-and-excel-automation)** | End-to-end response ingestion pipeline with automated data cleansing, validation, & multi-sheet Excel reports. | `Python` `OpenPyXL` `Automation` |
@@ -92,9 +93,10 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 **Full-Stack & Cloud**  
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
